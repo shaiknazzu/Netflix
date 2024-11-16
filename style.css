@@ -1,0 +1,83 @@
+body{
+    background-image: url(https://res.cloudinary.com/ds7duxqg1/image/upload/v1731688405/netflixbackground_i76vxc.jpg);
+}
+#logo{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 140px;
+}
+#btn{
+    margin-left: 840px;
+    color:white;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    height: 35px;
+    width: 130px;
+    font-size: 20px;
+}
+#btn1{
+    margin-left: 20px;
+    color:white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+    width: 85px;
+    font-size: 20px;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.body-heading{
+    align-items: center;
+}
+h1,h2{
+    margin: 0;
+    padding: 0;
+}
+#first-head{
+    color: white;
+    font-size: 58px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sub-head{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+    /*margin: 0;
+    padding: 0; */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+input{
+    background-color: transparent;
+    border-color: red;
+    border-radius: 5px;
+    height: 50px;
+    width:350px;
+    font-size: 15px;
+}
+#btn2{
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    height: 55px;
+    width: 200px;
+    font-size: 20px;
+
+}
